@@ -3,10 +3,10 @@ Python Internship Projects – CipherByte Technologies
 
 ## 📸 Screenshots
 ### 1. Main Menu
-![Main Menu](screenshots/1.png)
+![Main Menu](Secreenshot/1.png)
 
 ### 2. Example Contact List
-![Contact List](screenshots/2.png)
+![Contact List](Secreenshot/2.png)
 
 # ContactMaster
 
