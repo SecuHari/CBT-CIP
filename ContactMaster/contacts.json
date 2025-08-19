@@ -1,0 +1,24 @@
+[
+  {
+    "id": "8734c7d4",
+    "name": "Hareesh Kumar",
+    "phone": "123456789",
+    "email": "hareeshrajput54107@gmail.com",
+    "tags": [
+      "MGSU"
+    ],
+    "created_at": "2025-08-19 12:38:14",
+    "updated_at": "2025-08-19 12:38:14"
+  },
+  {
+    "id": "c89eb77d",
+    "name": "SecuHari",
+    "phone": "123456777",
+    "email": "hareeshrajput24@outlook.com",
+    "tags": [
+      "Hacker"
+    ],
+    "created_at": "2025-08-19 12:39:03",
+    "updated_at": "2025-08-19 12:39:03"
+  }
+]
