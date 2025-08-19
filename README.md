@@ -125,9 +125,6 @@
    **Hareesh Kumar**  
    🔗 [LinkedIn Profile](https://www.linkedin.com/in/hareesh-kumar-02045a339/)  
 
-   ---
-
-   ## 📌 Keywords
-
-   #Python #Programming #Internship #CipherByteTechnologies #Linux #DevOps #Project #Learning
+   🔗 [LinkedIn Post](https://www.linkedin.com/posts/hareesh-kumar-02045a339_linux-administrators-linux-activity-7363476735893344256-krEz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFT2WJgB0rvVQURSHMziJDyJJqcaIPZiZoQ)  
+     
 
