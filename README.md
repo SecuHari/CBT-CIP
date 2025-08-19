@@ -64,7 +64,7 @@
 
    1. Clone this repository  
       ```bash
-      git clone https://github.com/your-username/ContactMaster.git
+      git clone https://github.com/SecuHari/CBT-CIP.git
       cd ContactMaster
       ```
 
