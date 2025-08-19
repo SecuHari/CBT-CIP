@@ -82,8 +82,8 @@
    _Add screenshots of your project here (2 images as per internship submission rules)_  
 
    Example:  
-   ![Screenshot 1](Screenshots/1.png)  
-   ![Screenshot 2](Screenshots/2.png)  
+   ![Screenshot 1](Screenshot/1.png)  
+   ![Screenshot 2](Screenshot/2.png)  
 
    ---
 
