@@ -83,6 +83,9 @@ It showcases my skills in **Python, GUI development, and PDF automation**.
 
 ## 🔗 Connect with Me
 👤 [Hareesh Kumar (LinkedIn)](https://www.linkedin.com/in/hareesh-kumar-02045a339/)
+## 🔗 Video
+👤 [Hareesh Kumar (LinkedIn)](https://www.linkedin.com/in/hareesh-kumar-02045a339/)
+
 
 ---
 
