@@ -58,10 +58,10 @@ receipt_generator/
 ## 📸 Screenshots
 
 ### GUI Interface
-![GUI Screenshot](screenshots/1.png)
+![GUI Screenshot](1.png)
 
 ### Sample Receipt
-![Receipt Screenshot](screenshots/2.png)
+![Receipt Screenshot](2.png)
 
 ---
 
