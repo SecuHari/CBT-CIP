@@ -63,6 +63,9 @@ receipt_generator/
 ### Sample Receipt
 ![Receipt Screenshot](2.png)
 
+### Sample Receipt
+![Receipt Screenshot](3.png)
+
 ---
 
 ## 🎯 Use Cases
